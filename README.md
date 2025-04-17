@@ -1,8 +1,6 @@
-# React + Vite
+Movie App, made for practicing React, TailWindCSS, TMDB API and Appwrite. 
+Created custom algorithm for implementing Trending Movies, it keeps track of searched terms and lists them in the section below
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+![website_image](https://github.com/MihailoTerzic/MovieApp/blob/main/movieapp.PNG)
+![website_image](https://github.com/MihailoTerzic/Hack-Assembler/blob/main/asembler2.PNG)
 
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
